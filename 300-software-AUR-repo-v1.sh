@@ -87,6 +87,7 @@ sh AUR/install-ttf-font-awesome-v*.sh
 sh AUR/install-ttf-ms-fonts-v*.sh
 sh AUR/install-ttf-roboto-mono-v*.sh
 sh AUR/install-virtualbox-for-linux-kernel-v*.sh
+sh AUR/install-wttr-v*.sh
 #sh AUR/install-xcursor-breeze-v*.sh
 
 
