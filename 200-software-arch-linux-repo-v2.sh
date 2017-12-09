@@ -28,6 +28,7 @@ sudo pacman -S --noconfirm --needed redshift
 sudo pacman -S --noconfirm --needed xfburn
 sudo pacman -S --noconfirm --needed yubikey-manager
 sudo pacman -S --noconfirm --needed yubikey-personalization
+sudo pacman -S --noconfirm --needed yubikey-personalization-gui
 sudo pacman -S --noconfirm --needed variety
 #sudo pacman -S --noconfirm --needed
 
