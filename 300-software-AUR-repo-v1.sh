@@ -54,6 +54,7 @@ echo "Installing category Multimedia"
 #sh AUR/install-gradio-v*.sh
 sh AUR/install-peek-v*.sh
 sh AUR/install-pithos-git-v*.sh
+sh AUR/install-pulseaudio-equalizer-ladspa-v*.sh
 #sh AUR/install-radiotray-v*.sh
 sh AUR/install-spotify-v*.sh
 

@@ -10,7 +10,6 @@ set -e
 #Sound
 sudo pacman -S pulseaudio --noconfirm --needed
 sudo pacman -S pulseaudio-alsa --noconfirm --needed
-sudo pacman -S pulseaudio-equalizer-ladspa --noconfirm --needed
 #pavucontrol not needed in Budgie
 sudo pacman -S pavucontrol  --noconfirm --needed
 sudo pacman -S alsa-utils alsa-plugins alsa-lib alsa-firmware --noconfirm --needed
