@@ -1,12 +1,6 @@
 #!/bin/bash
 set -e
-##################################################################################################################
-# Author 	: 	Erik Dubois
-# Website 	: 	https://www.erikdubois.be
-# Website	:	https://www.archmerge.info
-# Website	:	https://www.archmerge.com
-# Website	:	https://www.archmerged.com
-# Website	:	https://www.archmergeforum.com
+
 ##################################################################################################################
 #
 #   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
@@ -66,6 +60,7 @@ sudo pacman -S --noconfirm --needed chromium
 sudo pacman -S --noconfirm --needed filezilla
 sudo pacman -S --noconfirm --needed firefox
 sudo pacman -S --noconfirm --needed hexchat
+sudo pacman -S --noconfirm --needed kdeconnect
 sudo pacman -S --noconfirm --needed thunderbird
 sudo pacman -S --noconfirm --needed thunderbird-i18n-en-us
 sudo pacman -S --noconfirm --needed transmission-cli
@@ -74,6 +69,7 @@ sudo pacman -S --noconfirm --needed transmission-gtk
 
 echo "Installing category Multimedia"
 
+sudo pacman -S --noconfirm --needed android-tools
 sudo pacman -S --noconfirm --needed cantata
 sudo pacman -S --noconfirm --needed mpd
 sudo pacman -S --noconfirm --needed openshot
