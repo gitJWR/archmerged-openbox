@@ -50,6 +50,7 @@ sudo pacman -S --noconfirm --needed gimp
 sudo pacman -S --noconfirm --needed gnome-font-viewer
 sudo pacman -S --noconfirm --needed gpick
 sudo pacman -S --noconfirm --needed inkscape
+sudo pacman -S --noconfirm --needed nomacs
 #sudo pacman -S --noconfirm --needed pinta
 sudo pacman -S --noconfirm --needed ristretto
 #sudo pacman -S --noconfirm --needed
@@ -73,7 +74,7 @@ sudo pacman -S --noconfirm --needed android-tools
 sudo pacman -S --noconfirm --needed cantata
 sudo pacman -S --noconfirm --needed mpd
 sudo pacman -S --noconfirm --needed openshot
-sudo pacman -S --noconfirm --needed shotwell
+#sudo pacman -S --noconfirm --needed shotwell
 sudo pacman -S --noconfirm --needed simplescreenrecorder
 #sudo pacman -S --noconfirm --needed smplayer
 sudo pacman -S --noconfirm --needed vlc
