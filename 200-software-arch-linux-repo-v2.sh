@@ -73,12 +73,13 @@ echo "Installing category Multimedia"
 sudo pacman -S --noconfirm --needed android-tools
 #sudo pacman -S --noconfirm --needed cantata
 #sudo pacman -S --noconfirm --needed mpd
+sudo pacman -S --noconfirm --needed mpv
 sudo pacman -S --noconfirm --needed openshot
 sudo pacman -S --noconfirm --needed quodlibet
 #sudo pacman -S --noconfirm --needed shotwell
 sudo pacman -S --noconfirm --needed simplescreenrecorder
 #sudo pacman -S --noconfirm --needed smplayer
-sudo pacman -S --noconfirm --needed vlc
+#sudo pacman -S --noconfirm --needed vlc
 #sudo pacman -S --noconfirm --needed
 
 echo "Installing category Office"
