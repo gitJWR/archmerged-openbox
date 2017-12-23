@@ -52,6 +52,7 @@ sh AUR/install-thunar-megasync-v*.sh
 echo "Installing category Multimedia"
 
 #sh AUR/install-gradio-v*.sh
+sh AUR/install-curseradio-git-v*.sh
 sh AUR/install-peek-v*.sh
 sh AUR/install-pithos-git-v*.sh
 sh AUR/install-pulseaudio-equalizer-ladspa-v*.sh
