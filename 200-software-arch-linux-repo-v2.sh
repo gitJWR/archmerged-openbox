@@ -19,7 +19,7 @@ sudo pacman -S --noconfirm --needed gnome-screenshot
 sudo pacman -S --noconfirm --needed xfce4-notifyd
 sudo pacman -S --noconfirm --needed plank
 sudo pacman -S --noconfirm --needed redshift
-sudo pacman -S --noconfirm --needed xfburn
+#sudo pacman -S --noconfirm --needed xfburn
 sudo pacman -S --noconfirm --needed yubikey-manager
 sudo pacman -S --noconfirm --needed yubikey-personalization
 sudo pacman -S --noconfirm --needed yubikey-personalization-gui
@@ -52,7 +52,7 @@ sudo pacman -S --noconfirm --needed gpick
 sudo pacman -S --noconfirm --needed inkscape
 sudo pacman -S --noconfirm --needed nomacs
 #sudo pacman -S --noconfirm --needed pinta
-sudo pacman -S --noconfirm --needed ristretto
+#sudo pacman -S --noconfirm --needed ristretto
 #sudo pacman -S --noconfirm --needed
 
 echo "Installing category Internet"
@@ -71,6 +71,7 @@ sudo pacman -S --noconfirm --needed transmission-gtk
 echo "Installing category Multimedia"
 
 sudo pacman -S --noconfirm --needed android-tools
+sudo pacman -S --noconfirm --needed asunder
 #sudo pacman -S --noconfirm --needed cantata
 #sudo pacman -S --noconfirm --needed mpd
 sudo pacman -S --noconfirm --needed mpv
@@ -78,7 +79,7 @@ sudo pacman -S --noconfirm --needed openshot
 sudo pacman -S --noconfirm --needed quodlibet
 #sudo pacman -S --noconfirm --needed shotwell
 sudo pacman -S --noconfirm --needed simplescreenrecorder
-#sudo pacman -S --noconfirm --needed smplayer
+sudo pacman -S --noconfirm --needed smplayer
 #sudo pacman -S --noconfirm --needed vlc
 #sudo pacman -S --noconfirm --needed
 
