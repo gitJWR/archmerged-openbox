@@ -116,6 +116,7 @@ sudo pacman -S --noconfirm --needed gnome-terminal
 sudo pacman -S --noconfirm --needed gparted
 sudo pacman -S --noconfirm --needed grsync
 sudo pacman -S --noconfirm --needed gtk-engine-murrine
+sudo pacman -S --noconfirm --needed gtop
 sudo pacman -S --noconfirm --needed gvfs gvfs-mtp
 sudo pacman -S --noconfirm --needed hardinfo
 sudo pacman -S --noconfirm --needed hddtemp
@@ -134,6 +135,7 @@ sudo pacman -S --noconfirm --needed sane
 sudo pacman -S --noconfirm --needed screenfetch
 sudo pacman -S --noconfirm --needed scrot
 sudo pacman -S --noconfirm --needed simple-scan
+sudo pacman -S --noconfirm --needed snapd
 sudo pacman -S --noconfirm --needed sysstat
 sudo pacman -S --noconfirm --needed terminator
 sudo pacman -S --noconfirm --needed termite
