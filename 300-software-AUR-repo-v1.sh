@@ -63,6 +63,7 @@ sh AUR/install-spotify-v*.sh
 echo "Installing category Office"
 
 sh AUR/install-workflowy-v*.sh
+sh AUR/install-gnucash-v*.sh
 
 
 echo "Installing category Other"
